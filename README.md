@@ -1,4 +1,2 @@
-Placeholder landing page for kishalaymajumder.online while the full site is under development.
-## License
-No license specified. 
+Placeholder landing page for [kishalaymajumder.online](https://kishalaymajumder.online/), No license specified. 
 

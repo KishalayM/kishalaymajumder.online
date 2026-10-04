@@ -1,11 +1,4 @@
-# Kishalay Majumder — Personal Website
-
-Placeholder landing page for Kishalay Majumder while the full site is under development.
-
-Live: [kishalaymajumder.online](https://kishalaymajumder.online/)
-
-
+Placeholder landing page for kishalaymajumder.online while the full site is under development.
 ## License
-
-No license specified. Contact the author before reusing content or assets.
+No license specified. 
 
